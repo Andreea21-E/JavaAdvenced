@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sdaacademy.javaadvenced.DogTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-15T08:09:06" hostname="DESKTOP-J68PEUP" time="0.002">
+  <properties/>
+  <testcase name="TestConstructor1" classname="com.sdaacademy.javaadvenced.DogTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
